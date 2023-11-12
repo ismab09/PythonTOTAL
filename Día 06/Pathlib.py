@@ -2,7 +2,7 @@ from pathlib import Path, PureWindowsPath
 
 # no se usa ni el open ni el close
 
-carpeta = Path('C:/Users/Isma/OneDrive/Programación/Python/Día 6/prueba.txt')
+carpeta = Path('/Día 06/prueba.txt')
 
 print(carpeta.read_text()) #seria como un read
 

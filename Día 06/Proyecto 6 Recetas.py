@@ -3,7 +3,7 @@ from pathlib import Path
 from os import system
 
 # mi_ruta = Path(Path.home(), 'Recetas')
-mi_ruta = Path('C://Users//Isma//OneDrive//Programación//Python//Día 6//Recetas')
+mi_ruta = Path('/Día 06//Recetas')
 
 
 def contar_recetas(ruta):

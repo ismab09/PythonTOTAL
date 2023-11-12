@@ -3,9 +3,9 @@ import shutil
 import send2trash
 
 
-#print(os.walk('C:\\Users\\Isma\\OneDrive\\Programación\\Python\\Día 9'))
+#print(os.walk('C:\\Users\\Isma\\OneDrive\\Programación\\Python\\Día 09'))
 
-ruta = 'C:\\Users\\Isma\\OneDrive\\Programación\\Python\\Día 9'
+ruta = 'C:\\Users\\Isma\\OneDrive\\Programación\\Python\\Día 09'
 
 for carpeta, subcarpeta, archivo in os.walk(ruta):
     print(f'En la carpeta: {carpeta}')
