@@ -1,0 +1,7 @@
+print("Hola me llamo \"Ismael\" y tengo 12 años")
+print("Mi jugador favorito es Federico Valverde. \nSu dorsal es la número 15")
+print('Hola'+' '+'Isma')
+print('This isn\'t a number')
+print('Este signo \"\\" es una barra invertida')
+print("Línea 1\nLínea 2\nLínea 3")
+print("Hola " + (input('Ingresa tu nombre: ')) + " " + (input('Ingresa tu apellido: ')))
